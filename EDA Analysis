@@ -1,0 +1,11 @@
+● Work with the Individual_Incident_2020 CSV dataset using Python. Use Pandas library to handle the
+data.
+● Look at the dataset layout to understand rows and columns.
+● Observe column names in the dataset and verify data types of each column.
+● Review basic details of the data.
+● Locate missing values in different columns.
+● Check for repeated rows in the dataset.
+● Fill all empty and null entries with value 0 and keep existing values unchanged.
+● Delete repeated rows from the dataset.
+● Arrange the data in a clean format. Save the cleaned dataset for next steps.
+● Begin simple data study (EDA).
